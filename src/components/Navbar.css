@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.contact{
+    width: 90%;
+    margin: auto;
+    border-radius: 5px;
+    border: 1px solid green;
+    padding-block: 30px;
+}
+
+.contact img{
+    width: 100%;
+}
+
+.contact h4 , h5 , h6{
+    color: #fff;
+}
